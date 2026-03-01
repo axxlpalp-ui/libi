@@ -65,8 +65,9 @@
   },
   "agents": {
     "defaults": {
+      "thinking": "low",
       "model": {
-        "primary": "minimax-portal/MiniMax-M2.5"
+        "primary": "minimax-portal/MiniMax-M2.1"
       },
       "models": {
         "minimax-portal/MiniMax-M2.1": {
