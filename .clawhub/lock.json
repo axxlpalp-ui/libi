@@ -56,6 +56,46 @@
     "computer-use": {
       "version": "1.2.1",
       "installedAt": 1772277934673
+    },
+    "github": {
+      "version": "1.0.0",
+      "installedAt": 1772360017081
+    },
+    "discord": {
+      "version": "1.0.1",
+      "installedAt": 1772360025776
+    },
+    "spotify-player": {
+      "version": "1.0.0",
+      "installedAt": 1772360033845
+    },
+    "slack": {
+      "version": "1.0.0",
+      "installedAt": 1772360040270
+    },
+    "notion": {
+      "version": "1.0.0",
+      "installedAt": 1772360054376
+    },
+    "obsidian": {
+      "version": "1.0.0",
+      "installedAt": 1772360062831
+    },
+    "gog": {
+      "version": "1.0.0",
+      "installedAt": 1772360100997
+    },
+    "gemini": {
+      "version": "1.0.0",
+      "installedAt": 1772360107812
+    },
+    "summarize": {
+      "version": "1.0.0",
+      "installedAt": 1772360122198
+    },
+    "trello": {
+      "version": "1.0.0",
+      "installedAt": 1772360128441
     }
   }
 }
