@@ -1,0 +1,6 @@
+*.sqlite
+memory_db/
+node_modules/
+venv/
+package-lock.json
+.openclaw/

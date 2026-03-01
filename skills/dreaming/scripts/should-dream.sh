@@ -15,8 +15,8 @@ cd "$WORKSPACE"
 # ============================================================================
 
 # Quiet hours window (24-hour format)
-QUIET_START=23  # 11 PM
-QUIET_END=7     # 7 AM
+QUIET_START=0  # 11 PM
+QUIET_END=23     # 7 AM
 
 # Dream topics — format: "category:prompt"
 # Override by creating data/dream-config.json with a "topics" array

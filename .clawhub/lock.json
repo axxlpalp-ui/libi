@@ -1,0 +1,61 @@
+{
+  "version": 1,
+  "skills": {
+    "weather": {
+      "version": "1.0.0",
+      "installedAt": 1772277587366
+    },
+    "youtube-transcript": {
+      "version": "1.0.1",
+      "installedAt": 1772277601596
+    },
+    "total-recall": {
+      "version": "1.5.1",
+      "installedAt": 1772277610348
+    },
+    "search-cluster": {
+      "version": "3.1.0",
+      "installedAt": 1772277617741
+    },
+    "aixin": {
+      "version": "0.1.0",
+      "installedAt": 1772277633988
+    },
+    "auto-updater": {
+      "version": "1.0.0",
+      "installedAt": 1772277741036
+    },
+    "humanizer": {
+      "version": "1.0.0",
+      "installedAt": 1772277768557
+    },
+    "agent": {
+      "version": "1.0.0",
+      "installedAt": 1772277776894
+    },
+    "self-improving-agent": {
+      "version": "1.0.11",
+      "installedAt": 1772277798537
+    },
+    "youtube-watcher": {
+      "version": "1.0.0",
+      "installedAt": 1772277805217
+    },
+    "desktop-control": {
+      "version": "1.0.0",
+      "installedAt": 1772277833962
+    },
+    "stock-analysis": {
+      "version": "6.2.0",
+      "installedAt": 1772277850958
+    },
+    "dreaming": {
+      "version": "1.0.2",
+      "installedAt": 1772277913479
+    },
+    "computer-use": {
+      "version": "1.2.1",
+      "installedAt": 1772277934673
+    }
+  }
+}
